@@ -22,10 +22,20 @@ this much
 
 </details>
 
+<details>
+  <summary>
+  ⏲ What I am doing now
+    
+   
+<span style="color:Blue">
+  
+  
 
-<span style="color:Red">
-## ⏲ What I am doing now:
-I do a lot of projects for learning Java
+</span>
+    
+  </details>
+
+
 
 ### 🔧 Languages and Tools:
 
