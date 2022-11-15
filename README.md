@@ -1,3 +1,6 @@
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## I'm a Student 👨‍🎓
 <details><summary>
 <span style="color:Blue">
 Who Am I?
@@ -18,41 +21,29 @@ this much
 </span>
 
 </details>
-<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" align ="right" width="400" height="250">
+
 
 <span style="color:Red">
+## ⏲ What I am doing now:
+I do a lot of projects for learning Java
 
-## Reach out to me
+### 🔧 Languages and Tools:
 
-</span>
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 <br />
 <br />
 <br />
-<span style="color:purple">
-Tech I Use
-</span>
 
-<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png width="30" height="30">
-<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png width="30" height="30">
-<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png width="30" height="30">
-<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png width="30" height="30">
-<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png width="30" height="30">
-<br />
-<br />
 
-<details>
-<summary>:bulb: Github Stats
+  <details>
+<summary>GitHub Analytics 📊
 </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=efecanbostanci&theme=tokyonight">
 </details>
 <br />
-<details><summary>:orange_book: Most Used Language
-</summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efecanbostanci&layout=compact">
-</details>
+</a>
+
+<br />
 <br />
 
-[instagram]: https://www.instagram.com/efecanbostancii/
-[linkedin]: https://www.linkedin.com/in/efe-can-bostanc%C4%B1-12b055226/
